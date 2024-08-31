@@ -1,0 +1,6 @@
+x = int(1)
+y = int(255.8)
+z = int("357") 
+print(x)
+print(y)
+print(z)
